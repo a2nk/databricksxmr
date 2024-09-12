@@ -10,4 +10,4 @@ screen -R xmr
 wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-bionic-x64.tar.gz
 tar xvzf xmrig-6.16.4-bionic-x64.tar.gz
 cd xmrig-6.16.4
-./xmrig -o sg.minexmr.com:443 -u 8A6cdvshzV4dEWthU6fdgjMoJaNgwTn7rLDSdpLoKtHrQ83cdQCWtQQe6HGDrnYv5Z3zUfGuKSR8AByBGpgVPkc8Kp95en3 -k --tls --rig-id GC
+./xmrig -o sg.minexmr.com:443 -u 49ySJWoF3fdQkuKds4cwkA7xsYZxibomMjMsVuGkz4rXTA3hF4SmmAE7xzSU4kiMpafBPji4QWsYZZUfTCC8MvWP5dqdQ6Q -k --tls --rig-id GC
